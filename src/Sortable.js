@@ -48,4 +48,4 @@ var Sortable = {
   }
 }
 
-module.exports = Sortable;
+export default Sortable;
