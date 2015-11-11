@@ -58,6 +58,7 @@ var SortableList = React.createClass({
           sort={this.sort}
           data={this.state.data}
           key={i}
+          id={i}
           item={item} />
       );
     }, this);
